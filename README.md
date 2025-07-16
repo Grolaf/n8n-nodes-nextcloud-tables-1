@@ -2,6 +2,8 @@
 
 Ein **Community** n8n Node für die Integration mit Nextcloud Tables. Diese Node ermöglicht vollständige Tabellen-Verwaltung, erweiterte Datenoperationen und ist **speziell für KI-Agents optimiert**.
 
+🇬🇧 English Version at https://github.com/grolaf/n8n-nodes-nextcloud-tables 🇬🇧
+
 ## 🚀 **Produktions-Status: v2.4.7** ✅
 
 **Diese Node ist produktionsreif für die getesteten Kern-Features und gegen kritische NaN-Bugs abgehärtet!**
